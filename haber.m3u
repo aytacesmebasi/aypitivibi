@@ -1,0 +1,25 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/turksatkablo.com.tr.epg.xml,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
+#EXTINF:-1 tvg-name="NTV"tvg-id="NTV.tr"tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_tr.png"group-title="HABER",NTV
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1 tvg-name="CNN Turk"tvg-id="CNNTurk.tr"tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_turk.png"group-title="HABER",CNN Turk
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-nU8xNkG_EzI/VpjhlwRk0VI/AAAAAAAANx4/Y0-vvrS2u4w/s1600/flashtv.jpg"group-title="HABER",FLASH TV
+https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
+#EXTINF:-1 tvg-name="Habertürk"tvg-id="Haberturk.tr"tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber_turk.png"group-title="HABER",Habertürk
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-name="Bloomberg HT"tvg-id="BloombergHT.tr"tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-ht-us-tr.png"group-title="HABER",Bloomberg HT
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+#EXTINF:-1 tvg-name="Ekoturk"tvg-id="Ekoturk.tr"tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekoturk-tr.png"group-title="HABER",Ekoturk
+https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
+#EXTINF:-1 tvg-name="Haber Global"tvg-id="HaberGlobal.tr"tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber-global-tr.png"group-title="HABER",Haber Global
+https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
+#EXTINF:-1 tvg-name="TGRT Haber"tvg-id="TGRTHaber.tr"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tgrt_haber.png"group-title="HABER",TGRT Haber
+https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
+#EXTINF:-1 tvg-name="TRT Haber"tvg-id="TRTHaber.tr"tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt_haber.png"group-title="HABER",TRT Haber
+https://trthaber.blutv.com/blutv_trthaber_live/live.m3u8
+#EXTINF:-1 tvg-name="TRT Spor"tvg-id="TRTSpor.tr"tvg-logo="https://i.imgur.com/jiTZGme.png"group-title="SPOR",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="Sports TV"tvg-id="SportsTV"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/48/Sportstv_logosu.png"group-title="SPOR",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-dLxVUxRkfy0/VplGqLOR-RI/AAAAAAAAN9Q/nyJtf--UVtU/s1600/galatasaraytv4.jpg"group-title="SPOR",GSTV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
