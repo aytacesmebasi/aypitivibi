@@ -1,4 +1,4 @@
-[Hepsi](https://raw.githubusercontent.com/aytacesmebasi/aypitivibi/master/aypitivi.m3u)
+[Hepsi](https://raw.githubusercontent.com/aytacesmebasi/aypitivibi/master/aypitivibi.m3u)
 ###
 [Ulusal Kanallar](https://raw.githubusercontent.com/aytacesmebasi/aypitivibi/master/ulusal.m3u)
 ###
